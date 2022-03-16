@@ -13,3 +13,5 @@
 <a href="https://instagram.com/_alvinjoy_"><img alt="Instagram" title="Instagram" height="32" width="32" src="assets/instagram.png"></a>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/AlvinJoyDev"><img alt="GitHub" title="GitHub" height="32" width="32" src="assets/github.svg"></a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/lwsg3h1l2wm80gp22bfiv1npi"><img alt="Spotify" title="Spotify" height="32" width="32" src="assets/spotify.png"></a>
