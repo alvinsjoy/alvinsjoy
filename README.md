@@ -10,8 +10,8 @@
 <p align="center"><a href="https://discord.com/users/825382504353234954" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://reddit.com/u/alvinjoy" target="_blank"><img alt="Reddit" title="Reddit" height="32" width="32" src="assets/reddit.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/_alvinjoy_" target="_blank"><img alt="Twitter" title="Twitter" height="32" width="32" src="assets/twitter.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/_alvinjoy_"><img alt="Instagram" title="Instagram" height="32" width="32" src="assets/instagram.png"></a>
+<a href="https://instagram.com/_alvinjoy_"><img alt="Instagram" title="Instagram" height="32" width="32" src="assets/instagram.svg"></a>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/AlvinJoyDev"><img alt="GitHub" title="GitHub" height="32" width="32" src="assets/github.svg"></a>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/lwsg3h1l2wm80gp22bfiv1npi"><img alt="Spotify" title="Spotify" height="32" width="32" src="assets/spotify.png"></a>
+<a href="https://open.spotify.com/user/lwsg3h1l2wm80gp22bfiv1npi"><img alt="Spotify" title="Spotify" height="32" width="32" src="assets/spotify.svg"></a>
