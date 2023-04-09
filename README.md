@@ -9,7 +9,7 @@
 <h1 align="center"> <img alt="Contact me" title="Contact" src="https://readme-typing-svg.herokuapp.com/?color=%23F7B049&lines=🤙+Contact+me&center=true&width=380&height=45"> </h1>
 
 <p align="center"><a href="https://twitter.com/_alvinjoy_" target="_blank"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://svgshare.com/i/q9E.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/alvin-joy-b5b534255/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://svgshare.com/i/rw1.svg"></a>
+<a href="https://www.linkedin.com/in/alvinjoydev"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://svgshare.com/i/rw1.svg"></a>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/_alvinjoy_"><img alt="Instagram" title="Instagram" height="32" width="32" src="https://svgshare.com/i/q9V.svg"></a>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
