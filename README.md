@@ -20,5 +20,5 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/lwsg3h1l2wm80gp22bfiv1npi"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://svgshare.com/i/q9p.svg"></a>
 
-<h1 align="center"> </h1>
-![](https://raw.githubusercontent.com/AlvinJoyDev/AlvinJoyDev/output/github-contribution-grid-snake.svg)
+<h1 align="center"> <img alt="Contributions" title="Contributions" src="https://readme-typing-svg.herokuapp.com/?color=F77171FF&lines=📝+Contributions&center=true&width=380&height=45"> </h1>
+<p align="center"> <img alt="Contributions" title="Contributions" src="https://raw.githubusercontent.com/AlvinJoyDev/AlvinJoyDev/output/github-contribution-grid-snake.svg"> </a>
