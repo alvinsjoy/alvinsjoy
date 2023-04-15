@@ -19,3 +19,6 @@
 <a href="https://github.com/AlvinJoyDev"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://svgshare.com/i/q8a.svg"></a>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/lwsg3h1l2wm80gp22bfiv1npi"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://svgshare.com/i/q9p.svg"></a>
+
+<h1 align="center"> <img alt="Commits" title="Commits" src="https://readme-typing-svg.herokuapp.com/?color=%23F7B049&lines=Commits+&center=true&width=380&height=45"> </h1>
+![github contribution grid snake animation](https://raw.githubusercontent.com/AlvinJoyDev/AlvinJoyDev/main/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
