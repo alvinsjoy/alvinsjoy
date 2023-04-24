@@ -3,7 +3,7 @@
 <p align="center">&nbsp;<img alt="Profile views" title="Views" align="center" src="https://komarev.com/ghpvc/?username=AlvinJoyDev&style=flat-square&color=ff69b4" /> </p>
 <p align="center">&nbsp;<img align="center" src="https://discord.c99.nl/widget/theme-2/825382504353234954.png" alt="alvinjoy#8193" title="alvinjoy#8193" /></p>
 <br>
-<p align="center">Most of my repositories are private. The stats below show info about public repos.
+<p align="center">Most of my repositories are private. The stats below show info about public repos. /></p>
 <p align="center">&nbsp;<img align="center" alt="Most used languages" title="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinJoyDev&layout=compact&theme=react&hide_border=true&langs_count=8" /></p>
 <br>
 <h1 align="center"> <img alt="Contact me" title="Contact" src="https://readme-typing-svg.herokuapp.com/?color=%23F7B049&lines=🤙+Contact+me&center=true&width=380&height=45"> </h1>
