@@ -5,7 +5,8 @@
 <br>
 <p align="center">Most of my repositories are private. The stats below show info about public repos. </p>
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlvinJoyDev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="AlvinJoyDev's github stats" /></a>&nbsp;&nbsp; <a><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlvinJoyDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&show_icons=true" /></a> 
+<a href="https://github.com/AlvinJoyDev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlvinJoyDev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="AlvinJoyDev's github stats" /></a>&nbsp;&nbsp; <a href="https://github.com/AlvinJoyDev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinJoyDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&show_icons=true" /></a>
+<a href="https://github.com/AlvinJoyDev"><img align="center" src="https://github-profile-trophy.vercel.app/?username=AlvinJoyDev&theme=tokyonight" alt="AlvinJoyDev's github stats" /></a>
 <br>
 <h1 align="center"> <img alt="Contact me" title="Contact" src="https://readme-typing-svg.herokuapp.com/?color=%23F7B049&lines=🤙+Contact+me&center=true&width=380&height=45"> </h1>
 
