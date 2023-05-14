@@ -16,6 +16,13 @@
 <p align="center" href="https://github.com/AlvinJoyDev">
   <img src="https://github-profile-trophy.vercel.app/?username=AlvinJoyDev&theme=tokyonight" alt="AlvinJoyDev's github stats" /></a>
 <br>
+
+<h1 align="center"> 
+  <img alt="Contributions" title="Contributions" src="https://readme-typing-svg.herokuapp.com/?color=F77171FF&lines=📝+GitHub+Contributions&center=true&width=380&height=45"> </h1>
+<p align="center"> 
+  <img alt="Contributions" title="Contributions" src="https://github-readme-activity-graph.cyclic.app/graph?username=AlvinJoyDev&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true"> </a>
+<br>
+
 <h1 align="center">
   <img alt="Contact me" title="Contact" src="https://readme-typing-svg.herokuapp.com/?color=%23F7B049&lines=🤙+Contact+me&center=true&width=380&height=45"> </h1>
 
@@ -27,8 +34,3 @@
 <a href="https://reddit.com/u/alvinjoy" target="_blank"><img alt="Reddit" title="Reddit" height="32" width="32" src="https://svgshare.com/i/so8.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/AlvinJoyDev" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://svgshare.com/i/t80.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/lwsg3h1l2wm80gp22bfiv1npi" target="_blank"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://svgshare.com/i/sqF.svg"></a>
-
-<h1 align="center"> 
-  <img alt="Contributions" title="Contributions" src="https://readme-typing-svg.herokuapp.com/?color=F77171FF&lines=📝+GitHub+Contributions&center=true&width=380&height=45"> </h1>
-<p align="center"> 
-  <img alt="Contributions" title="Contributions" src="https://raw.githubusercontent.com/AlvinJoyDev/AlvinJoyDev/output/github-contribution-grid-snake.svg"> </a>
