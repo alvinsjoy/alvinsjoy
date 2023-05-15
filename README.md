@@ -17,13 +17,13 @@
 
 <p align="center">
   <a href="https://github.com/AlvinJoyDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlvinJoyDev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="AlvinJoyDev's github stats" /></a>&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=AlvinJoyDev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="AlvinJoyDev's github stats" /></a>&nbsp;&nbsp;
   <a href="https://github.com/AlvinJoyDev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinJoyDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinJoyDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" />
 </p>
 <p align="center">
   <a href="https://github.com/AlvinJoyDev">
-    <img src="https://github-profile-trophy.vercel.app/?username=AlvinJoyDev&theme=tokyonight" alt="AlvinJoyDev's github stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AlvinJoyDev&theme=tokyonight&no-frame=true" alt="AlvinJoyDev's github stats" />
 </p>
 <br>
 
