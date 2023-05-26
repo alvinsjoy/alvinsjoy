@@ -33,6 +33,23 @@
   <a href="https://github.com/AlvinJoyDev">
     <img alt="Contributions" title="Contributions" src="https://github-readme-activity-graph.cyclic.app/graph?username=AlvinJoyDev&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true">
 </p>
+<!--START_SECTION:waka-->
+
+```text
+From: 02 July 2022 - To: 24 May 2023
+
+Total Time: 190 hrs 27 mins
+
+Rust                       26 hrs 41 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
+Python                     26 hrs 35 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
+C                          25 hrs 18 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+JavaScript                 22 hrs 14 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+Java                       18 hrs 51 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+```
+
+<!--END_SECTION:waka-->
+
+---
 <br>
 
 <h1 align="center">
