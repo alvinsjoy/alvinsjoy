@@ -11,7 +11,7 @@
     <img align="center" src="https://discord.c99.nl/widget/theme-2/825382504353234954.png" alt="alvinjoy#8193" title="alvinjoy#8193" />
 </p>
 <br>
-<p align="center"> 
+<p align="center">
   Most of my repositories are private. The stats below show info about public repos.
 </p>
 
@@ -27,9 +27,9 @@
 </p>
 <br>
 
-<h1 align="center"> 
+<h1 align="center">
   <img alt="Contributions" title="Contributions" src="https://readme-typing-svg.herokuapp.com/?color=F77171FF&lines=📝+GitHub+Contributions&center=true&width=380&height=45"> </h1>
-<p align="center"> 
+<p align="center">
   <a href="https://github.com/AlvinJoyDev">
     <img alt="Contributions" title="Contributions" src="https://github-readme-activity-graph.cyclic.app/graph?username=AlvinJoyDev&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true">
 </p>
