@@ -42,7 +42,7 @@ No activity tracked
   <img alt="Contributions" title="Contributions" src="https://readme-typing-svg.herokuapp.com/?color=F77171FF&lines=📝+GitHub+Contributions&center=true&width=380&height=45"> </h1>
 <p align="center">
   <a href="https://github.com/AlvinJoyDev">
-    <img alt="Contributions" title="Contributions" src="https://github-readme-activity-graph.cyclic.app/graph?username=AlvinJoyDev&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true">
+    <img alt="Contributions" title="Contributions" src=https://github-readme-activity-graph.vercel.app/graph?username=AlvinJoyDev&bg_color=000000&color=ffc7e5&line=b03074&point=bc8f8f&area=true&hide_border=true">
 </p>
 <br>
 
