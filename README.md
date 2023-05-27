@@ -26,6 +26,15 @@
     <img src="https://github-profile-trophy.vercel.app/?username=AlvinJoyDev&theme=tokyonight&no-frame=true" alt="AlvinJoyDev's github stats" />
 </p>
 <!--START_SECTION:waka-->
+
+```text
+From: 25 May 2023 - To: 26 May 2023
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 <br>
 
