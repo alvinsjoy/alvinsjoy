@@ -1,7 +1,7 @@
 <h1 align="center">
   <img alt="Hi I'm Alvin Joy" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%2335CD75&size=30&lines=Hi%2C+I'm+Alvin+Joy&center=true"> </h1>
 <h1 align="center">
-  <img alt="Stats" title="Stats" src="https://readme-typing-svg.herokuapp.com/?color=%8A51CD&lines=📈+Stats&center=true&width=380&height=45"> </h1>
+  <img alt="Stats" title="Stats" src="https://readme-typing-svg.herokuapp.com/?color=%8A51CD&lines=📊+Stats&center=true&width=380&height=45"> </h1>
 <p align="center">
   <a href="https://github.com/AlvinJoyDev">
     <img alt="Profile Views" title="Profile Views" src="https://visitcount.itsvg.in/api?id=AlvinJoyDev&label=Profile%20Views&icon=2&pretty=true" />
@@ -25,9 +25,9 @@
   <a href="https://github.com/AlvinJoyDev">
     <img src="https://github-profile-trophy.vercel.app/?username=AlvinJoyDev&theme=tokyonight&no-frame=true" alt="AlvinJoyDev's github stats" />
 </p>
-<h3 align="center">
+<h4 align="center">
   👨‍💻 My coding activity
-</h3>
+</h4>
 <!--START_SECTION:waka-->
 
 ```yaml
