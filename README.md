@@ -25,6 +25,9 @@
   <a href="https://github.com/AlvinJoyDev">
     <img src="https://github-profile-trophy.vercel.app/?username=AlvinJoyDev&theme=tokyonight&no-frame=true" alt="AlvinJoyDev's github stats" />
 </p>
+<h3 align="center">
+  👨‍💻 My coding activity
+</h3>
 <!--START_SECTION:waka-->
 
 ```yaml
