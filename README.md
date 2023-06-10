@@ -27,12 +27,12 @@
 </p>
 <!--START_SECTION:waka-->
 
-```txt
+```yaml
 From: 25 May 2023 - To: 09 June 2023
 
 Total Time: 38 mins
 
-Dart   38 mins         █████████████████████████   100.00 %
+Dart   38 mins         ▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦   100.00 %
 ```
 
 <!--END_SECTION:waka-->
