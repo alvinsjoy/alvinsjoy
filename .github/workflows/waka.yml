@@ -21,3 +21,4 @@ jobs:
           COMMIT_MESSAGE: 'Update Dev metrics'
           CODE_LANG: yaml
           BLOCKS: -▦
+          SHOW_TOTAL: true
