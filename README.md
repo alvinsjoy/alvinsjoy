@@ -33,9 +33,12 @@
 ```yaml
 From: 25 May 2023 - To: 09 June 2023
 
-Total Time: 38 mins
+Total Time: 1 hr 17 mins
 
-Dart   38 mins         ▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦▦   100.00 %
+Dart       42 mins         ▦▦▦▦▦▦▦▦▦▦▦▦▦▦-----------   54.86 %
+YAML       26 mins         ▦▦▦▦▦▦▦▦-----------------   33.72 %
+Markdown   7 mins          ▦▦-----------------------   09.84 %
+Text       1 min           -------------------------   01.58 %
 ```
 
 <!--END_SECTION:waka-->
