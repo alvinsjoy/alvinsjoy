@@ -37,6 +37,7 @@
 </h4>
 
 <!--START_SECTION:waka-->
+
 ```yaml
 From: 25 May 2023 - To: 12 June 2023
 
@@ -48,6 +49,7 @@ YAML         1 hr 3 mins     ▦▦-----------------------   08.94 %
 Markdown     23 mins         ▦------------------------   03.28 %
 INI          19 mins         ▦------------------------   02.79 %
 ```
+
 <!--END_SECTION:waka-->
 <h1 align="center">
   <img alt="Contributions" title="Contributions" src="https://readme-typing-svg.herokuapp.com/?color=F77171FF&lines=📝+GitHub+Contributions&center=true&width=380&height=45">
