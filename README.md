@@ -44,6 +44,10 @@ From: 25 May 2023 - To: 23 June 2023
 Total Time: 16 hrs 13 mins
 
 Dart         5 hrs 51 mins   ▦▦▦▦▦▦▦▦▦----------------   36.07 %
+JavaScript   4 hrs 11 mins   ▦▦▦▦▦▦-------------------   25.83 %
+HTML         3 hrs 15 mins   ▦▦▦▦▦--------------------   20.05 %
+YAML         1 hr 3 mins     ▦▦-----------------------   06.49 %
+Markdown     43 mins         ▦------------------------   04.51 %
 ```
 
 <!--END_SECTION:waka-->
