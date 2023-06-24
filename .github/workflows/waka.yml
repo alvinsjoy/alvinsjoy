@@ -22,3 +22,4 @@ jobs:
           CODE_LANG: yaml
           BLOCKS: -▦
           SHOW_TOTAL: true
+          COMMIT_BY_ME: true
