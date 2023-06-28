@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```yaml
-From: 25 May 2023 - To: 26 June 2023
+From: 25 May 2023 - To: 27 June 2023
 
 Total Time: 19 hrs 6 mins
 
