@@ -39,15 +39,15 @@
 <!--START_SECTION:waka-->
 
 ```yaml
-From: 25 May 2023 - To: 30 June 2023
+From: 25 May 2023 - To: 01 July 2023
 
-Total Time: 33 hrs 12 mins
+Total Time: 38 hrs 17 mins
 
-Dart         16 hrs 19 mins  ▦▦▦▦▦▦▦▦▦▦▦▦-------------   49.14 %
-HTML         7 hrs 10 mins   ▦▦▦▦▦--------------------   21.60 %
-JavaScript   5 hrs 33 mins   ▦▦▦▦---------------------   16.75 %
-CSS          1 hr 27 mins    ▦------------------------   04.40 %
-YAML         1 hr 20 mins    ▦------------------------   04.03 %
+Dart         16 hrs 19 mins  ▦▦▦▦▦▦▦▦▦▦▦--------------   42.61 %
+HTML         7 hrs 10 mins   ▦▦▦▦▦--------------------   18.73 %
+Markdown     5 hrs 53 mins   ▦▦▦▦---------------------   15.36 %
+JavaScript   5 hrs 33 mins   ▦▦▦▦---------------------   14.53 %
+CSS          1 hr 27 mins    ▦------------------------   03.81 %
 ```
 
 <!--END_SECTION:waka-->
