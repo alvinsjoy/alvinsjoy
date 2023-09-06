@@ -19,6 +19,8 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           COMMIT_MESSAGE: 'Update Dev metrics'
-          CODE_LANG: yaml
+          CODE_LANG: rust
           BLOCKS: -▦
           SHOW_TOTAL: true
+          COMMITTER_NAME: Alvin Joy
+          COMMITTER_EMAIL: 89687635+AlvinJoyDev@users.noreply.github.com
