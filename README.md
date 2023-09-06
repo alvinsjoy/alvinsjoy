@@ -31,9 +31,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=AlvinJoyDev&theme=tokyonight&no-frame=true" alt="AlvinJoyDev's github stats" />
   </a>
 </p>
-<h4 align="center">
+<h3 align="center">
   👨‍💻 My coding activity
-</h4>
+</h3>
 
 <!--START_SECTION:waka-->
 
