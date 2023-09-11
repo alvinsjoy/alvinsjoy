@@ -38,15 +38,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 May 2023 - To: 09 September 2023
+From: 25 May 2023 - To: 10 September 2023
 
-Total Time: 71 hrs 6 mins
+Total Time: 71 hrs 20 mins
 
-Dart         29 hrs 55 mins  ▦▦▦▦▦▦▦▦▦▦▦--------------   42.08 %
-JavaScript   19 hrs 26 mins  ▦▦▦▦▦▦▦------------------   27.34 %
-HTML         8 hrs 19 mins   ▦▦▦----------------------   11.71 %
-Markdown     6 hrs 50 mins   ▦▦-----------------------   09.61 %
-CSS          3 hrs 15 mins   ▦------------------------   04.57 %
+Dart         30 hrs 9 mins   ▦▦▦▦▦▦▦▦▦▦▦--------------   42.28 %
+JavaScript   19 hrs 26 mins  ▦▦▦▦▦▦▦------------------   27.25 %
+HTML         8 hrs 19 mins   ▦▦▦----------------------   11.67 %
+Markdown     6 hrs 50 mins   ▦▦-----------------------   09.58 %
+CSS          3 hrs 15 mins   ▦------------------------   04.56 %
 ```
 
 <!--END_SECTION:waka-->
