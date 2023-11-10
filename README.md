@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <a href="https://discord.com/users/825382504353234954">
-    <img align="center" src="https://discord.c99.nl/widget/theme-2/825382504353234954.png" alt="alvinjoy#8193" title="alvinjoy#8193" />
+    <img align="center" src="https://discord.c99.nl/widget/theme-4/825382504353234954.png" alt="alvinjoy#8193" title="alvinjoy#8193" />
   </a>
 </p>
 
