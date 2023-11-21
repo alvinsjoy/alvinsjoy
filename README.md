@@ -55,6 +55,14 @@ JSON             26 mins         ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 ```
 
 <!--END_SECTION:waka-->
+
+<h3 align="center">
+  👨‍💻 My Skills
+</h3>
+<p align="center">
+  <a href="https://github.com/alvinsjoy">
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,c,java,python,dart,flutter,html,css,git,md&theme=dark" alt="Alvin's skills" />
+
 <h1 align="center">
   <img alt="Contributions" title="Contributions" src="https://readme-typing-svg.herokuapp.com/?color=F77171FF&lines=📝+GitHub+Contributions&center=true&width=380&height=45">
 </h1>
