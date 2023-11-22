@@ -32,7 +32,7 @@
   </a>
 </p>
 <h3 align="center">
-  👨‍💻 My coding activity
+  <img align="center" src="https://i.imgur.com/BM11Hk9.png" alt="code" height="24" width="24" />&nbsp;&nbsp;My coding activity
 </h3>
 
 <!--START_SECTION:waka-->
@@ -57,7 +57,7 @@ JSON             26 mins         ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 <!--END_SECTION:waka-->
 
 <h3 align="center">
-  👨‍💻 My Skills
+  <img align="center" src="https://i.imgur.com/GsIrWns.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;My Skills
 </h3>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
