@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Hi I'm Alvin Joy" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%2335CD75&size=30&lines=Hi%2C+I'm+Alvin+Joy&center=true">
+  <img alt="Hi I'm Alvin Joy" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=D300F7FF&size=30&lines=Hi%2C+I'm+Alvin+Joy&center=true">
 </h1>
 <h1 align="center">
   <img alt="Stats" title="Stats" src="https://readme-typing-svg.herokuapp.com/?color=%8A51CD&lines=📊+Stats&center=true&width=380&height=45">
@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <a href="https://discord.com/users/825382504353234954">
-    <img align="center" src="https://discord.c99.nl/widget/theme-4/825382504353234954.png" alt="alvinjoy#8193" title="alvinjoy#8193" />
+    <img align="center" src="https://discord.c99.nl/widget/theme-4/825382504353234954.png" alt="alvinjoy" title="alvinjoy" />
   </a>
 </p>
 
