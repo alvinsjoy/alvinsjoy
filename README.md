@@ -68,7 +68,7 @@ JSON             28 mins         ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 </h1>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
-    <img alt="Contributions" title="Contributions" src="https://github-readme-activity-graph.vercel.app/graph?username=alvinsjoy&bg_color=1a1b27&color=5dcb5f&line=4eb1b0&point=98943a&area=true&hide_border=true">
+    <img alt="Contributions" title="Contributions" src="https://github-readme-activity-graph.vercel.app/graph?username=alvinsjoy&bg_color=1a1b26&color=5dcb5f&line=4eb1b0&point=98943a&area=true&hide_border=true">
   </a>
 </p>
 <h1 align="center">
