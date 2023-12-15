@@ -23,12 +23,12 @@
   <a href="https://github.com/alvinsjoy">
     <img src="https://github-readme-stats.vercel.app/api?username=alvinsjoy&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="alvinsjoy's github stats" /></a>&nbsp;&nbsp;
   <a href="https://github.com/alvinsjoy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinsjoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinsjoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" alt="alvinsjoy's github stats" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alvinsjoy&theme=tokyonight&no-frame=true" alt="alvinsjoy's github stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=alvinsjoy&theme=tokyonight&no-frame=true&column=-1" alt="alvinsjoy's github stats" />
   </a>
 </p>
 <h3 align="center">
