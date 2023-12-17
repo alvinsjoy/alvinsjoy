@@ -38,20 +38,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 May 2023 - To: 15 December 2023
+From: 25 May 2023 - To: 16 December 2023
 
-Total Time: 126 hrs 4 mins
+Total Time: 126 hrs 8 mins
 
-C                35 hrs 44 mins  ▊▊▊▊▊▊▊▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   28.35 %
-Dart             30 hrs 9 mins   ▊▊▊▊▊▊▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   23.92 %
-JavaScript       20 hrs 4 mins   ▊▊▊▊▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   15.93 %
+C                35 hrs 44 mins  ▊▊▊▊▊▊▊▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   28.34 %
+Dart             30 hrs 9 mins   ▊▊▊▊▊▊▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   23.91 %
+JavaScript       20 hrs 4 mins   ▊▊▊▊▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   15.92 %
 Java             16 hrs 15 mins  ▊▊▊▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   12.89 %
-HTML             8 hrs 59 mins   ▊▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.14 %
+HTML             8 hrs 59 mins   ▊▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.13 %
 Markdown         7 hrs 25 mins   ▊▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.89 %
 CSS              3 hrs 19 mins   ▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.63 %
 YAML             1 hr 20 mins    ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.06 %
 Astro            36 mins         ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.49 %
-TypeScript       35 mins         ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.47 %
+JSON             35 mins         ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.47 %
 ```
 
 <!--END_SECTION:waka-->
