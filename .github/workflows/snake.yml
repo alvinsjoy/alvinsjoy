@@ -1,9 +1,9 @@
-name: generate animation
+name: Generate Snake
 
 on:
-  # run automatically every 24 hours
+  # Runs at 12:00am and 12:00pm IST
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: '30 18,6 * * *' 
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -11,10 +11,7 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - master
-    
-  
-
+    - main
 jobs:
   generate:
     permissions: 
@@ -40,5 +37,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          commit_message: 🐍 Update snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
