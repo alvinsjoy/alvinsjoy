@@ -78,7 +78,11 @@ Astro            36 mins         ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 </h1>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
-    <img alt="Contributions" title="Contributions" src="https://github-readme-activity-graph.vercel.app/graph?username=alvinsjoy&bg_color=1a1b26&color=5dcb5f&line=4eb1b0&point=98943a&area=true&hide_border=true">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvinsjoy/alvinsjoy/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvinsjoy/alvinsjoy/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alvinsjoy/alvinsjoy/output/github-contribution-grid-snake.svg">
+    </picture>
   </a>
 </p>
 <h1 align="center">
