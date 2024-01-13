@@ -11,7 +11,17 @@
 </p>
 <p align="center">
   <a href="https://discord.com/users/825382504353234954">
-    <img align="center" src="https://discord.c99.nl/widget/theme-4/825382504353234954.png" alt="alvinjoy" title="alvinjoy" />
+    <picture>
+      <source
+      srcset="https://discord.c99.nl/widget/theme-4/825382504353234954.png"
+      media="(prefers-color-scheme: dark)"
+      />
+      <source
+      srcset="https://discord.c99.nl/widget/theme-5/825382504353234954.png"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://discord.c99.nl/widget/theme-4/825382504353234954.png" />
+    </picture>
   </a>
 </p>
 
