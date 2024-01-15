@@ -18,7 +18,7 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          COMMIT_MESSAGE: 'Update Dev metrics'
+          COMMIT_MESSAGE: '🧑‍💻 Update Dev metrics'
           CODE_LANG: rust
           BLOCKS: ▁▂▃▄▅▆▇▊
           SHOW_TOTAL: true
