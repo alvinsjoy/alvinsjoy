@@ -97,3 +97,6 @@ Astro            36 mins         ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
   <a href="https://github.com/alvinsjoy" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://i.imgur.com/KgmH1Y0.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/lwsg3h1l2wm80gp22bfiv1npi" target="_blank"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://svgshare.com/i/sqF.svg"/></a>
 </p>
+<blockquote>
+  <b>NOTE:</b> If the animations on this page are not working as expected, please try reloading the page.
+</blockquote>
