@@ -74,7 +74,7 @@ JSON             1 hr 27 mins    ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,ts,c,java,py,react,dart,flutter,html,css,git,githubactions,md,mysql&theme=dark" alt="Alvin's skills" />
 
 <h1 align="center">
-  <img alt="Contributions" title="Contributions" src="https://readme-typing-svg.herokuapp.com/?color=F77171FF&lines=📝+GitHub+Contributions&center=true&width=380&height=45">
+  <img alt="Contributions" title="Contributions" src="https://readme-typing-svg.herokuapp.com/?color=F77171FF&lines=📝+GitHub+Contributions+Snake&center=true&width=380&height=45">
 </h1>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
