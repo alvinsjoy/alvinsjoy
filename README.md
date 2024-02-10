@@ -12,15 +12,8 @@
 <p align="center">
   <a href="https://discord.com/users/825382504353234954">
     <picture>
-      <source
-      srcset="https://discord.c99.nl/widget/theme-4/825382504353234954.png"
-      media="(prefers-color-scheme: dark)"
-      />
-      <source
-      srcset="https://discord.c99.nl/widget/theme-5/825382504353234954.png"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://discord.c99.nl/widget/theme-4/825382504353234954.png" />
+      <source alt="discord" media="(prefers-color-scheme: dark)" srcset="https://discord.c99.nl/widget/theme-4/825382504353234954.png" >
+      <img alt="discord" src="https://discord.c99.nl/widget/theme-5/825382504353234954.png" />
     </picture>
   </a>
 </p>
@@ -79,8 +72,7 @@ JSON             1 hr 28 mins    ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 <p align="center">
   <a href="https://github.com/alvinsjoy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvinsjoy/alvinsjoy/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvinsjoy/alvinsjoy/output/github-contribution-grid-snake.svg">
+      <source alt="github contribution grid snake animation" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvinsjoy/alvinsjoy/output/github-contribution-grid-snake-dark.svg">
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alvinsjoy/alvinsjoy/output/github-contribution-grid-snake.svg">
     </picture>
   </a>
