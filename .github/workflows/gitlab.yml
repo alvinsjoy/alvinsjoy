@@ -1,0 +1,23 @@
+name: PushGitlab
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+      with: 
+        fetch-depth: 0
+
+    - name: Push To Gitlab
+      run: |
+        git config user.name "Alvin Joy"
+        git config user.email "15279891-alvinjoy@users.noreply.gitlab.com"
+        git remote set-url origin "https://oauth2:${token}@gitlab.com/alvinjoy/alvinjoy.git"
+        git push origin master
+      env: 
+        token: ${{ secrets.GITLAB_TOKEN }}
