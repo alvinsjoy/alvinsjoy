@@ -18,6 +18,6 @@ jobs:
         git config user.name "Alvin Joy"
         git config user.email "15279891-alvinjoy@users.noreply.gitlab.com"
         git remote set-url origin "https://oauth2:${token}@gitlab.com/alvinjoy/alvinjoy.git"
-        git push origin master
+        git push origin main --force
       env: 
         token: ${{ secrets.GITLAB_TOKEN }}
