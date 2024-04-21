@@ -64,7 +64,7 @@ JSON             3 hrs 23 mins   ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 </h3>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,ts,c,java,py,react,dart,flutter,html,css,git,githubactions,md,mysql&theme=dark" alt="Alvin's skills" />
+    <img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,dart,flutter,git,githubactions,md,mysql&theme=dark" alt="Alvin's skills" />
 
 <h1 align="center">
   <img alt="Contributions" title="Contributions" src="https://readme-typing-svg.herokuapp.com/?color=F77171FF&lines=📝+GitHub+Contributions+Snake&center=true&width=380&height=45">
