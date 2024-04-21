@@ -22,8 +22,11 @@ jobs:
         echo "<!-- $(date) -->" >> README.md
         git config user.name "Alvin Joy"
         git config user.email "15279891-alvinjoy@users.noreply.gitlab.com"
-        git remote set-url origin "https://oauth2:$(secrets.GITLAB_TOKEN)@gitlab.com/alvinjoy/alvinjoy.git"
-        git remote set-url --add origin "https://oauth2:$(secrets.CODEBERG_TOKEN)@codeberg.org/alvinjoy/alvinjoy.git"
+        git remote set-url origin "https://oauth2:${gitlab_token}@gitlab.com/alvinjoy/alvinjoy.git"
+        git remote set-url --add origin "https://oauth2:${codeberg_token}@codeberg.org/alvinjoy/alvinjoy.git"
         git add README.md
         git commit -m "Update README with current date"
         git push origin main --force
+      env: 
+        gitlab_token: ${{ secrets.GITLAB_TOKEN }}
+        codeberg_token: ${{ secrets.CODEBERG_TOKEN }}
