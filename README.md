@@ -35,40 +35,48 @@
   </a>
 </p>
 <h3 align="center">
-  <img align="center" src="./assets/code.png" alt="code" height="24" width="24" />&nbsp;&nbsp;My coding activity
+  <img align="center" src="./assets/code.png" alt="code" height="30" width="30" />&nbsp;&nbsp;My coding activity
 </h3>
 
 <!--START_SECTION:waka-->
 
 ```py
-From: 25 May 2023 - To: 30 April 2024
+From: 25 May 2023 - To: 23 April 2024
 
-Total Time: 290 hrs 9 mins
+Total Time: 287 hrs 31 mins
 
-C                94 hrs 36 mins  ▊▊▊▊▊▊▊▊▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   32.61 %
-Java             60 hrs 50 mins  ▊▊▊▊▊▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   20.97 %
-TypeScript       33 hrs 49 mins  ▊▊▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   11.66 %
-Dart             30 hrs 9 mins   ▊▊▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   10.40 %
-JavaScript       27 hrs 30 mins  ▊▊▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   09.48 %
-Markdown         12 hrs 33 mins  ▊▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.33 %
-HTML             8 hrs 59 mins   ▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.10 %
-CSS              5 hrs 10 mins   ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.78 %
-Other            3 hrs 58 mins   ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.37 %
-JSON             3 hrs 26 mins   ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.19 %
+C                94 hrs 36 mins  ▊▊▊▊▊▊▊▊▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   32.91 %
+Java             60 hrs 50 mins  ▊▊▊▊▊▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   21.16 %
+TypeScript       31 hrs 16 mins  ▊▊▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   10.88 %
+Dart             30 hrs 9 mins   ▊▊▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   10.49 %
+JavaScript       27 hrs 30 mins  ▊▊▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   09.57 %
+Markdown         12 hrs 32 mins  ▊▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.36 %
+HTML             8 hrs 59 mins   ▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.13 %
+CSS              5 hrs 10 mins   ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.80 %
+Other            3 hrs 58 mins   ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.38 %
+JSON             3 hrs 26 mins   ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.20 %
 ```
 
 <!--END_SECTION:waka-->
 
 <h3 align="center">
-  <img align="center" src="./assets/skill.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;My Skills
+  <img align="center" src="./assets/skill.png" alt="skills" height="26" width="26" />&nbsp;&nbsp;My Skills
 </h3>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
     <img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,dart,flutter,git,githubactions,md,mysql&theme=dark" alt="Alvin's skills" />
 
 <h1 align="center">
-  <img alt="Contributions" title="Contributions" src="https://readme-typing-svg.herokuapp.com/?color=F77171FF&lines=📝+GitHub+Contributions+Snake&center=true&width=380&height=45">
+  <img alt="Contributions" title="Contributions" src="https://readme-typing-svg.herokuapp.com/?color=F77171FF&lines=📝+GitHub+Contributions&center=true&width=380&height=45">
 </h1>
+<h4>Notable Issues and Pull Requests</h4>
+<p>
+  <a href="https://github.com/vercel/next.js/issues/64853"><img align="center" src="./assets/issue.svg" alt="issue" height="20" width="20"/>&nbsp;eslint-config-next to have eslint ^9.x.x+ as peerDependencies</a><br>
+  <a href="https://github.com/cli/cli/issues/8816"><img align="center" src="./assets/issue.svg" alt="issue" height="20" width="20"/>&nbsp;gh pr lock does not accept url even though it is mentioned in the manual</a><br>
+  <a href="https://github.com/highlightjs/highlight.js/issues/3962"><img align="center" src="./assets/issue.svg" alt="issue" height="20" width="20"/>&nbsp;(JAVA) Does not highlight the reserved keyword goto</a><br>
+  <a href="https://github.com/highlightjs/highlight.js/pull/3963"><img align="center" src="./assets/pr.png" alt="pr" height="20" width="20"/>&nbsp;(JAVA) Add goto to be recognized as a keyword</a><br>
+  <a href="https://github.com/highlightjs/highlight.js/pull/3977"><img align="center" src="./assets/pr.png" alt="pr" height="20" width="20"/>&nbsp;enh(bash) add sudo keyword</a>
+</p>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
     <picture>
@@ -92,4 +100,4 @@ JSON             3 hrs 26 mins   ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 </p>
 
 > [!NOTE]
-> If the animations on this page are not working as expected, please try reloading the page.
+> If the animations on this page are not working as expected, please try [reloading](https://github.com/alvinsjoy) the page.
