@@ -35,7 +35,7 @@
   </a>
 </p>
 <h3 align="center">
-  <img align="center" src="./assets/code.png" alt="code" height="30" width="30" />&nbsp;&nbsp;My coding activity
+  <img align="center" src="./assets/code.png" alt="code" height="24" width="24" />&nbsp;&nbsp;My coding activity
 </h3>
 
 <!--START_SECTION:waka-->
@@ -60,7 +60,7 @@ JSON             3 hrs 26 mins   ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 <!--END_SECTION:waka-->
 
 <h3 align="center">
-  <img align="center" src="./assets/skill.png" alt="skills" height="26" width="26" />&nbsp;&nbsp;My Skills
+  <img align="center" src="./assets/skill.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;My Skills
 </h3>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
@@ -69,7 +69,7 @@ JSON             3 hrs 26 mins   ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 <h1 align="center">
   <img alt="Contributions" title="Contributions" src="https://readme-typing-svg.herokuapp.com/?color=F77171FF&lines=📝+GitHub+Contributions&center=true&width=380&height=45">
 </h1>
-<h4>Notable Issues and Pull Requests</h4>
+<h4 align="center">Notable Issues and Pull Requests</h4>
 <p>
   <a href="https://github.com/vercel/next.js/issues/64853"><img align="center" src="./assets/issue.svg" alt="issue" height="20" width="20"/>&nbsp;eslint-config-next to have eslint ^9.x.x+ as peerDependencies</a><br>
   <a href="https://github.com/cli/cli/issues/8816"><img align="center" src="./assets/issue.svg" alt="issue" height="20" width="20"/>&nbsp;gh pr lock does not accept url even though it is mentioned in the manual</a><br>
