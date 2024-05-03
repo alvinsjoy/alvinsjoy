@@ -69,14 +69,18 @@ JSON             3 hrs 26 mins   ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 <h1 align="center">
   <img alt="Contributions" title="Contributions" src="https://readme-typing-svg.herokuapp.com/?color=F77171FF&lines=📝+GitHub+Contributions&center=true&width=380&height=45">
 </h1>
-<h4 align="center">Notable Issues and Pull Requests</h4>
-<p>
-  <a href="https://github.com/vercel/next.js/issues/64853"><img align="center" src="./assets/issue.svg" alt="issue" height="20" width="20"/>&nbsp;eslint-config-next to have eslint ^9.x.x+ as peerDependencies</a><br>
-  <a href="https://github.com/cli/cli/issues/8816"><img align="center" src="./assets/issue.svg" alt="issue" height="20" width="20"/>&nbsp;gh pr lock does not accept url even though it is mentioned in the manual</a><br>
-  <a href="https://github.com/highlightjs/highlight.js/issues/3962"><img align="center" src="./assets/issue.svg" alt="issue" height="20" width="20"/>&nbsp;(JAVA) Does not highlight the reserved keyword goto</a><br>
-  <a href="https://github.com/highlightjs/highlight.js/pull/3963"><img align="center" src="./assets/pr.png" alt="pr" height="20" width="20"/>&nbsp;(JAVA) Add goto to be recognized as a keyword</a><br>
-  <a href="https://github.com/highlightjs/highlight.js/pull/3977"><img align="center" src="./assets/pr.png" alt="pr" height="20" width="20"/>&nbsp;enh(bash) add sudo keyword</a>
-</p>
+<h3 align="center">Notable Issues and Pull Requests</h3>
+<div align="center">
+  
+| Repository                                           | Issue/PR                               |
+| -----------                                          | -----------                            |
+| [vercel/next.js](https://github.com/vercel/next.js) | <img align="center" src="./assets/issue.svg" alt="issue" height="20" width="20"/> [eslint-config-next to have eslint ^9.x.x+ as peerDependencies](https://github.com/vercel/next.js/issues/64853) |
+| [cli/cli](https://github.com/cli/cli) |<img align="center" src="./assets/issue.svg" alt="issue" height="20" width="20"/> [`gh pr lock` does not accept url even though it is mentioned in the manual](https://github.com/cli/cli/issues/8816) |
+| [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) | <img align="center" src="./assets/issue.svg" alt="issue" height="20" width="20"/> [(JAVA) Does not highlight the reserved keyword `goto`](https://github.com/highlightjs/highlight.js/pull/3963) |
+| [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) | <img align="center" src="./assets/pr.png" alt="pr" height="20" width="20"/> [(JAVA) Add `goto` to be recognized as a keyword](https://github.com/highlightjs/highlight.js/pull/3963) |
+| [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) | <img align="center" src="./assets/pr.png" alt="pr" height="20" width="20"/> [enh(bash) add `sudo` keyword](https://github.com/highlightjs/highlight.js/pull/3977) |
+| [microsoft/winget-cli](https://github.com/microsoft/winget-cli) | <img align="center" src="./assets/pr.png" alt="pr" height="20" width="20"/> [Use GitHub's built in markdown highlighting to highlight notes in README](https://github.com/microsoft/winget-cli/pull/4441)
+</div>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
     <picture>
