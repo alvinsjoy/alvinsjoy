@@ -29,5 +29,5 @@ jobs:
       - name: Mirror to Codeberg
         uses: pixta-dev/repository-mirroring-action@674e65a7d483ca28dafaacba0d07351bdcc8bd75 # v1.1.1
         with:
-          target_repo_url: "git@codeberg.org:alvinjoy/alvinjoy.git"
+          target_repo_url: "git@codeberg.org:alvinjoy/.profile.git"
           ssh_private_key: ${{ secrets.SSH_KEY }}
