@@ -9,33 +9,24 @@ on:
     - cron: '30 8 * * *'
 
 jobs:
-  build:
+  to_gitlab:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29 # v4.1.6
       with: 
         fetch-depth: 0
-    - name: Checkout
-      uses: actions/checkout@v4
-      
-    - name: Import GPG key
-      uses: crazy-max/ghaction-import-gpg@01dd5d3ca463c7f10f7f4f7b4f177225ac661ee4 # v6.1.0
+    - name: Mirror
+    - uses: pixta-dev/repository-mirroring-action@674e65a7d483ca28dafaacba0d07351bdcc8bd75 # v1.1.1
       with:
-        gpg_private_key: ${{ secrets.GPG_KEY }}
-        git_user_signingkey: true
-        git_commit_gpgsign: true
-
-    - name: Push To Gitlab
-      run: |
-        echo "<!-- $(date) -->" >> README.md
-        git config user.name "Alvin Joy"
-        git config user.email "15279891-alvinjoy@users.noreply.gitlab.com"
-        git remote set-url origin "https://oauth2:${gitlab_token}@gitlab.com/alvinjoy/alvinjoy.git"
-        git remote set-url --add origin "https://oauth2:${codeberg_token}@codeberg.org/alvinjoy/alvinjoy.git"
-        git add README.md
-        git commit -m "Update README with current date"
-        git push origin main --force
-      env: 
-        gitlab_token: ${{ secrets.GITLAB_TOKEN }}
-        codeberg_token: ${{ secrets.CODEBERG_TOKEN }}
+        target_repo_url: "git@gitlab.com:alvinjoy/alvinjoy.git"
+        ssh_private_key: ${{ secrets.SSH_KEY }}
+  to_codeberg:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29 # v4.1.6
+        with:
+          fetch-depth: 0
+      - uses: pixta-dev/repository-mirroring-action@674e65a7d483ca28dafaacba0d07351bdcc8bd75 # v1.1.1
+        with:
+          target_repo_url: "git@codeberg.org:alvinjoy/alvinjoy.git"
+          ssh_private_key: ${{ secrets.SSH_KEY }}
