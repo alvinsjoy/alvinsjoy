@@ -28,8 +28,9 @@
   <a href="https://github.com/alvinsjoy">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinsjoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" alt="alvinsjoy's github stats" />
   </a>
-</p>
-<p align="center">
+  <a href="https://github.com/alvinsjoy">
+    <img src="https://streak-stats.demolab.com?user=alvinsjoy&theme=tokyonight&hide_border=true&currStreakNum=00EBE5&ring=EB5454&dates=B4EB57&fire=EB00D2&currStreakLabel=00EBE5&sideLabels=00EB54&sideNums=EBAF76" alt="alvinsjoy's github stats" />
+  </a>
   <a href="https://github.com/alvinsjoy">
     <img src="https://github-profile-trophy.vercel.app/?username=alvinsjoy&theme=tokyonight&no-frame=true&column=-1" alt="alvinsjoy's github stats" />
   </a>
