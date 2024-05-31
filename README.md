@@ -65,6 +65,7 @@ TSConfig         4 hrs 3 mins    ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 </h3>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
+    <!-- https://go-skill-icons.vercel.app/api/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,dart,flutter,git,githubactions,md,mysql&theme=dark -->
     <picture>
       <source alt="Alvin's skills" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvinsjoy/alvinsjoy/main/assets/skillicons-dark.svg" />
       <img alt="Alvin's skills" src="https://raw.githubusercontent.com/alvinsjoy/alvinsjoy/main/assets/skillicons-light.svg">
