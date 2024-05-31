@@ -36,7 +36,7 @@
   </a>
 </p>
 <h3 align="center">
-  <img align="center" src="./assets/code.png" alt="code" height="24" width="24" />&nbsp;&nbsp;My coding activity
+  <img align="center" src="./assets/icons/code.png" alt="code" height="24" width="24" />&nbsp;&nbsp;My coding activity
 </h3>
 
 <!--START_SECTION:waka-->
@@ -61,14 +61,13 @@ TSConfig         4 hrs 3 mins    ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 <!--END_SECTION:waka-->
 
 <h3 align="center">
-  <img align="center" src="./assets/skill.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;My Skills
+  <img align="center" src="./assets/icons/skill.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;My Skills
 </h3>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
     <picture>
-      <source alt="Alvin's skills" media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,dart,flutter,git,githubactions,md,mysql&theme=dark" />
-      <source alt="Alvin's skills" media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,dart,flutter,git,githubactions,md,mysql&theme=light" />
-      <img alt="Alvin's skills" src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,dart,flutter,git,githubactions,md,mysql&theme=dark">
+      <source alt="Alvin's skills" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvinsjoy/alvinsjoy/main/assets/skillicons-dark.svg" />
+      <img alt="Alvin's skills" src="https://raw.githubusercontent.com/alvinsjoy/alvinsjoy/main/assets/skillicons-light.svg">
     </picture>
 
 <h1 align="center">
@@ -79,12 +78,12 @@ TSConfig         4 hrs 3 mins    ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
   
 | Repository                                           | Issue/PR                               |
 | -----------                                          | -----------                            |
-| [vercel/next.js](https://github.com/vercel/next.js) | <img align="center" src="./assets/issue.svg" alt="issue" height="20" width="20"/> [eslint-config-next to have eslint ^9.x.x+ as peerDependencies](https://github.com/vercel/next.js/issues/64853) |
-| [cli/cli](https://github.com/cli/cli) |<img align="center" src="./assets/issue.svg" alt="issue" height="20" width="20"/> [`gh pr lock` does not accept url even though it is mentioned in the manual](https://github.com/cli/cli/issues/8816) |
-| [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) | <img align="center" src="./assets/issue.svg" alt="issue" height="20" width="20"/> [(JAVA) Does not highlight the reserved keyword `goto`](https://github.com/highlightjs/highlight.js/issues/3962) |
-| [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) | <img align="center" src="./assets/pr.png" alt="pr" height="20" width="20"/> [(JAVA) Add `goto` to be recognized as a keyword](https://github.com/highlightjs/highlight.js/pull/3963) |
-| [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) | <img align="center" src="./assets/pr.png" alt="pr" height="20" width="20"/> [enh(bash) add `sudo` keyword](https://github.com/highlightjs/highlight.js/pull/3977) |
-| [microsoft/winget-cli](https://github.com/microsoft/winget-cli) | <img align="center" src="./assets/pr.png" alt="pr" height="20" width="20"/> [Use GitHub's built in markdown highlighting to highlight notes in README](https://github.com/microsoft/winget-cli/pull/4441)
+| [vercel/next.js](https://github.com/vercel/next.js) | <img align="center" src="./assets/icons/issue.svg" alt="issue" height="20" width="20"/> [eslint-config-next to have eslint ^9.x.x+ as peerDependencies](https://github.com/vercel/next.js/issues/64853) |
+| [cli/cli](https://github.com/cli/cli) |<img align="center" src="./assets/icons/issue.svg" alt="issue" height="20" width="20"/> [`gh pr lock` does not accept url even though it is mentioned in the manual](https://github.com/cli/cli/issues/8816) |
+| [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) | <img align="center" src="./assets/icons/issue.svg" alt="issue" height="20" width="20"/> [(JAVA) Does not highlight the reserved keyword `goto`](https://github.com/highlightjs/highlight.js/issues/3962) |
+| [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [(JAVA) Add `goto` to be recognized as a keyword](https://github.com/highlightjs/highlight.js/pull/3963) |
+| [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [enh(bash) add `sudo` keyword](https://github.com/highlightjs/highlight.js/pull/3977) |
+| [microsoft/winget-cli](https://github.com/microsoft/winget-cli) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [Use GitHub's built in markdown highlighting to highlight notes in README](https://github.com/microsoft/winget-cli/pull/4441)
 </div>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
@@ -98,14 +97,14 @@ TSConfig         4 hrs 3 mins    ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
   <img alt="Contact me" title="Contact" src="https://readme-typing-svg.herokuapp.com/?color=%23F7B049&lines=🤙+Contact+me&center=true&width=380&height=45">
 </h1>
 <p align="center">
-<a href="https://alvinjoy.vercel.app" target="_blank"><img alt="Portfolio" title="Portfolio" height="32" width="32" src="./assets/website.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/_alvinjoy_" target="_blank"><img alt="Twitter" title="Twitter" height="32" width="32" src="./assets/twitter.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alvinsjoy" target="_blank"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="./assets/linkedin.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/_alvinjoy_" target="_blank"><img alt="Instagram" title="Instagram" height="32" width="32" src="./assets/instagram.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/825382504353234954" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="./assets/discord.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://reddit.com/u/alvinjoy" target="_blank"><img alt="Reddit" title="Reddit" height="32" width="32" src="./assets/reddit.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/alvinsjoy" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="./assets/github.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/lwsg3h1l2wm80gp22bfiv1npi" target="_blank"><img alt="Spotify" title="Spotify" height="32" width="32" src="./assets/spotify.svg"/></a>
+<a href="https://alvinjoy.vercel.app" target="_blank"><img alt="Portfolio" title="Portfolio" height="32" width="32" src="./assets/icons/website.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/_alvinjoy_" target="_blank"><img alt="Twitter" title="Twitter" height="32" width="32" src="./assets/icons/twitter.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alvinsjoy" target="_blank"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="./assets/icons/linkedin.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/_alvinjoy_" target="_blank"><img alt="Instagram" title="Instagram" height="32" width="32" src="./assets/icons/instagram.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/825382504353234954" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="./assets/icons/discord.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://reddit.com/u/alvinjoy" target="_blank"><img alt="Reddit" title="Reddit" height="32" width="32" src="./assets/icons/reddit.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/alvinsjoy" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="./assets/icons/github.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/lwsg3h1l2wm80gp22bfiv1npi" target="_blank"><img alt="Spotify" title="Spotify" height="32" width="32" src="./assets/icons/spotify.svg"/></a>
 </p>
 
 > [!NOTE]
