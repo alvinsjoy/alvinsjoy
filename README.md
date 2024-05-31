@@ -65,7 +65,10 @@ TSConfig         4 hrs 3 mins    ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 </h3>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
-    <img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,dart,flutter,git,githubactions,md,mysql&theme=dark" alt="Alvin's skills" />
+    <picture>
+      <source alt="Alvin's skills" media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,dart,flutter,git,githubactions,md,mysql&theme=dark" />
+      <img alt="Alvin's skills" src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,dart,flutter,git,githubactions,md,mysql&theme=dark">
+    </picture>
 
 <h1 align="center">
   <img alt="Contributions" title="Contributions" src="https://readme-typing-svg.herokuapp.com/?color=F77171FF&lines=📝+GitHub+Contributions&center=true&width=380&height=45">
