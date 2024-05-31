@@ -67,6 +67,7 @@ TSConfig         4 hrs 3 mins    ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
   <a href="https://github.com/alvinsjoy">
     <picture>
       <source alt="Alvin's skills" media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,dart,flutter,git,githubactions,md,mysql&theme=dark" />
+      <source alt="Alvin's skills" media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,dart,flutter,git,githubactions,md,mysql&theme=light" />
       <img alt="Alvin's skills" src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,dart,flutter,git,githubactions,md,mysql&theme=dark">
     </picture>
 
