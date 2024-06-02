@@ -65,11 +65,9 @@ TSConfig         4 hrs 3 mins    ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 </h3>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
-    <!-- https://go-skill-icons.vercel.app/api/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,dart,flutter,git,githubactions,md,mysql&theme=dark -->
-    <picture>
-      <source alt="Alvin's skills" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvinsjoy/alvinsjoy/main/assets/skillicons-dark.svg" />
-      <img alt="Alvin's skills" src="https://raw.githubusercontent.com/alvinsjoy/alvinsjoy/main/assets/skillicons-light.svg">
-    </picture>
+      <img alt="Alvin's skills" src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,dart,flutter,git,githubactions,md,mysql&theme=auto">
+  </a>
+</p>
 
 <h1 align="center">
   <img alt="Contributions" title="Contributions" src="https://readme-typing-svg.herokuapp.com/?color=F77171FF&lines=📝+GitHub+Contributions&center=true&width=380&height=45">
