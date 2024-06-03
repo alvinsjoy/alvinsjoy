@@ -65,7 +65,7 @@ TSConfig         4 hrs 3 mins    ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 </h3>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
-      <img alt="Alvin's skills" src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,dart,flutter,git,githubactions,md,mysql&theme=auto">
+      <img alt="Alvin's skills" src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,nextjs,dart,flutter,git,githubactions,md,mysql&perline=8&theme=auto">
   </a>
 </p>
 
