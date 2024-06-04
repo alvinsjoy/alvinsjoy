@@ -42,20 +42,20 @@
 <!--START_SECTION:waka-->
 
 ```py
-From: 25 May 2023 - To: 01 June 2024
+From: 25 May 2023 - To: 02 June 2024
 
-Total Time: 380 hrs 59 mins
+Total Time: 396 hrs 34 mins
 
-C                134 hrs 42 mins ▊▊▊▊▊▊▊▊▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   35.36 %
-TypeScript       71 hrs 39 mins  ▊▊▊▊▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   18.81 %
-Java             60 hrs 50 mins  ▊▊▊▊▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   15.97 %
-Dart             30 hrs 9 mins   ▊▊▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.92 %
-JavaScript       27 hrs 33 mins  ▊▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.23 %
-Markdown         17 hrs 25 mins  ▊▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.58 %
-HTML             8 hrs 59 mins   ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.36 %
-CSS              7 hrs 6 mins    ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.86 %
-JSON             4 hrs 16 mins   ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.12 %
-TSConfig         4 hrs 3 mins    ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.06 %
+C                148 hrs 10 mins ▊▊▊▊▊▊▊▊▊▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   37.36 %
+TypeScript       73 hrs 22 mins  ▊▊▊▊▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   18.50 %
+Java             60 hrs 50 mins  ▊▊▊▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   15.34 %
+Dart             30 hrs 9 mins   ▊▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.61 %
+JavaScript       27 hrs 33 mins  ▊▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.95 %
+Markdown         17 hrs 48 mins  ▊▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.49 %
+HTML             8 hrs 59 mins   ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.27 %
+CSS              7 hrs 6 mins    ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.79 %
+JSON             4 hrs 16 mins   ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.08 %
+TSConfig         4 hrs 3 mins    ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.02 %
 ```
 
 <!--END_SECTION:waka-->
