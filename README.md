@@ -24,7 +24,9 @@
 
 <p align="center">
   <a href="https://github.com/alvinsjoy">
-    <img src="https://github-readme-stats.vercel.app/api?username=alvinsjoy&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="alvinsjoy's github stats" /></a>&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=alvinsjoy&show_icons=true&include_all_commits=true&count_private=true&show=discussions_started,discussions_answered&theme=tokyonight&hide_border=true" alt="alvinsjoy's github stats" />
+  <br>
+  </a>
   <a href="https://github.com/alvinsjoy">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinsjoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" alt="alvinsjoy's github stats" />
   </a>
