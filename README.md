@@ -86,9 +86,6 @@ TSConfig         4 hrs 3 mins    ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 | [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [enh(bash) add `sudo` keyword](https://github.com/highlightjs/highlight.js/pull/3977) |
 | [microsoft/winget-cli](https://github.com/microsoft/winget-cli) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [Use GitHub's built in markdown highlighting to highlight notes in README](https://github.com/microsoft/winget-cli/pull/4441)
 </div>
-<h3 align="center">Recent GitHub Activity</h3>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 <p align="center">
   <a href="https://github.com/alvinsjoy">
     <picture>
