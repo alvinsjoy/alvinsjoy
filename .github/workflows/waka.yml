@@ -4,10 +4,10 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 00:30 UTC
-    - cron: '30 0 * * *'
+    - cron: "30 0 * * *"
 
 jobs:
-  update-readme:
+  waka:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
@@ -18,8 +18,17 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          COMMIT_MESSAGE: '🧑‍💻 Update Dev metrics'
+          COMMIT_MESSAGE: "🧑‍💻 Update Dev metrics"
           CODE_LANG: py
           BLOCKS: ▁▂▃▄▅▆▇▊
           SHOW_TOTAL: true
           LANG_COUNT: 10
+  activity:
+    needs: waka
+    name: GitHub Activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29 # v4.1.6
+      - uses: jamesgeorge007/github-activity-readme@df57d5cab9b53277241f93190e176b38dd95eb1a # v0.4.4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
