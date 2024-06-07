@@ -23,7 +23,7 @@
 </p>
 <p>
   <a href="https://github.com/alvinsjoy">
-    <img width="500" align="right" alt="Github" src="https://streak-stats.demolab.com?user=alvinsjoy&theme=tokyonight&hide_border=true&currStreakNum=00EBE5&ring=EB5454&dates=B4EB57&fire=EB00D2&currStreakLabel=00EBE5&sideLabels=00EB54&sideNums=EBAF76" alt="alvinsjoy's github stats" alt="alvinsjoy's github stats" />
+    <img width="450" align="right" alt="Github" src="https://streak-stats.demolab.com?user=alvinsjoy&theme=tokyonight&hide_border=true&currStreakNum=00EBE5&ring=EB5454&dates=B4EB57&fire=EB00D2&currStreakLabel=00EBE5&sideLabels=00EB54&sideNums=EBAF76" alt="alvinsjoy's github stats" alt="alvinsjoy's github stats" />
   </a>
 </p>
 <h3 align="left"><img align="center" src="./assets/icons/github.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;Recent GitHub Activity</h3>
