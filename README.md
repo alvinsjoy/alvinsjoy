@@ -21,17 +21,27 @@
 <p align="center">
   Most of my repositories are private. The stats below show info about public repos.
 </p>
-
-<p align="center">
+<p>
   <a href="https://github.com/alvinsjoy">
-    <img src="https://github-readme-stats.vercel.app/api?username=alvinsjoy&show_icons=true&include_all_commits=true&count_private=true&show=discussions_started,discussions_answered&theme=tokyonight&hide_border=true" alt="alvinsjoy's github stats" />
-  <br>
+    <img width="500" align="right" alt="Github" src="https://streak-stats.demolab.com?user=alvinsjoy&theme=tokyonight&hide_border=true&currStreakNum=00EBE5&ring=EB5454&dates=B4EB57&fire=EB00D2&currStreakLabel=00EBE5&sideLabels=00EB54&sideNums=EBAF76" alt="alvinsjoy's github stats" alt="alvinsjoy's github stats" />
   </a>
+</p>
+<h3 align="left"><img align="center" src="./assets/icons/github.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;Recent GitHub Activity</h3>
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#986](https://github.com/tandpfun/skill-icons/issues/986#issuecomment-2143898252) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+2. 🔒 Closed issue [#986](https://github.com/tandpfun/skill-icons/issues/986) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+3. 🗣 Commented on [#11](https://github.com/LelouchFR/skill-icons/issues/11#issuecomment-2143890846) in [LelouchFR/skill-icons](https://github.com/LelouchFR/skill-icons)
+4. 🗣 Commented on [#986](https://github.com/tandpfun/skill-icons/issues/986#issuecomment-2143857833) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+5. 🗣 Commented on [#986](https://github.com/tandpfun/skill-icons/issues/986#issuecomment-2143738990) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+<!--END_SECTION:activity-->
+<br>
+<p align="center">
   <a href="https://github.com/alvinsjoy">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinsjoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" alt="alvinsjoy's github stats" height="200" />
   </a>
   <a href="https://github.com/alvinsjoy">
-    <img src="https://streak-stats.demolab.com?user=alvinsjoy&theme=tokyonight&hide_border=true&currStreakNum=00EBE5&ring=EB5454&dates=B4EB57&fire=EB00D2&currStreakLabel=00EBE5&sideLabels=00EB54&sideNums=EBAF76" alt="alvinsjoy's github stats" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alvinsjoy&show_icons=true&include_all_commits=true&count_private=true&show=discussions_started,discussions_answered&theme=tokyonight&hide_border=true" height="200" />
   </a>
   <a href="https://github.com/alvinsjoy">
     <img src="https://github-profile-trophy.vercel.app/?username=alvinsjoy&theme=tokyonight&no-frame=true&column=-1" alt="alvinsjoy's github stats" />
