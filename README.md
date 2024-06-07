@@ -23,7 +23,7 @@
 </p>
 <p>
   <a href="https://github.com/alvinsjoy">
-    <img width="450" align="right" alt="Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinsjoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" alt="alvinsjoy's github stats" height="200" />
+    <img align="right" alt="Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinsjoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" alt="alvinsjoy's github stats" height="200" />
   </a>
 </p>
 <h3 align="left"><img align="center" src="./assets/icons/github.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;Recent GitHub Activity</h3>
