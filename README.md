@@ -38,7 +38,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
-    <img src="https://streak-stats.demolab.com?user=alvinsjoy&theme=tokyonight&hide_border=true&currStreakNum=00EBE5&ring=EB5454&dates=B4EB57&fire=EB00D2&currStreakLabel=00EBE5&sideLabels=00EB54&sideNums=EBAF76" alt="alvinsjoy's github stats" height="200" />
+    <img src="https://streak-stats.demolab.com?user=alvinsjoy&theme=tokyonight&hide_border=true&currStreakNum=00EBE5&ring=EB5454&dates=B4EB57&fire=EB00D2&currStreakLabel=00EBE5&sideLabels=00EB54&sideNums=EBAF76&card_width=400" alt="alvinsjoy's github stats" height="200" />
   </a>
   <a href="https://github.com/alvinsjoy">
     <img src="https://github-readme-stats.vercel.app/api?username=alvinsjoy&show_icons=true&include_all_commits=true&count_private=true&show=discussions_started,discussions_answered&theme=tokyonight&hide_border=true" height="200" />
