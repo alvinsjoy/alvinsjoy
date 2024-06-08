@@ -29,11 +29,11 @@
 <h3 align="left"><img align="center" src="./assets/icons/github.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#94](https://github.com/hsuanyi-chou/shadcn-ui-expansions/pull/94) in [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions)
-2. 🗣 Commented on [#94](https://github.com/hsuanyi-chou/shadcn-ui-expansions/pull/94#issuecomment-2154316874) in [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions)
-3. ❌ Closed PR [#94](https://github.com/hsuanyi-chou/shadcn-ui-expansions/pull/94) in [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions)
-4. 💪 Opened PR [#94](https://github.com/hsuanyi-chou/shadcn-ui-expansions/pull/94) in [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions)
-5. 🗣 Commented on [#986](https://github.com/tandpfun/skill-icons/issues/986#issuecomment-2143898252) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+1. 🗣 Commented on [#94](https://github.com/hsuanyi-chou/shadcn-ui-expansions/pull/94#issuecomment-2155301094) in [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions)
+2. ❌ Reopened PR [#94](https://github.com/hsuanyi-chou/shadcn-ui-expansions/pull/94) in [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions)
+3. 🗣 Commented on [#94](https://github.com/hsuanyi-chou/shadcn-ui-expansions/pull/94#issuecomment-2154316874) in [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions)
+4. ❌ Closed PR [#94](https://github.com/hsuanyi-chou/shadcn-ui-expansions/pull/94) in [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions)
+5. 💪 Opened PR [#94](https://github.com/hsuanyi-chou/shadcn-ui-expansions/pull/94) in [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions)
 <!--END_SECTION:activity-->
 <br>
 <p align="center">
