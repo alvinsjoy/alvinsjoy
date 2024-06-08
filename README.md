@@ -95,6 +95,7 @@ TSConfig         4 hrs 3 mins    ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 | [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [(JAVA) Add `goto` to be recognized as a keyword](https://github.com/highlightjs/highlight.js/pull/3963) |
 | [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [enh(bash) add `sudo` keyword](https://github.com/highlightjs/highlight.js/pull/3977) |
 | [microsoft/winget-cli](https://github.com/microsoft/winget-cli) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [Use GitHub's built in markdown highlighting to highlight notes in README](https://github.com/microsoft/winget-cli/pull/4441)
+| [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [Add issue templates](https://github.com/hsuanyi-chou/shadcn-ui-expansions/pull/94)
 </div>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
