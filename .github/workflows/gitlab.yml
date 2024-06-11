@@ -2,8 +2,6 @@ name: PushGitlab
 
 on:
   workflow_dispatch:
-  push:
-    branches: [ main ]
   schedule:
     # Runs at 08:30 UTC
     - cron: '30 8 * * *'
