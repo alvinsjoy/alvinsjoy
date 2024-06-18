@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img alt="Hi I'm Alvin Joy" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=D300F7FF&size=30&lines=Hi%2C+I'm+Alvin+Joy&center=true">
+  <img alt="Hi I'm Alvin Joy" title="Hi" src="http://readme-typing-svg.herokuapp.com?font=Caveat&color=D300F7FF&size=60&pause=1000&center=true&vCenter=true&weight=700&width=800&height=70&lines=Hi%2C+I'm+Alvin+Joy;A+passionate+JavaScript+Developer">
 </h1>
 <h1 align="center">
-  <img alt="Stats" title="Stats" src="https://readme-typing-svg.herokuapp.com/?color=%8A51CD&lines=📊+Stats&center=true&width=380&height=45">
+  <img alt="Stats" title="Stats" src="https://readme-typing-svg.herokuapp.com/?font=Caveat&weight=500&size=30&pause=1000&center=true&vCenter=true&color=%8A51CD&width=380&height=45&lines=📊+Profile+Stats">
 </h1>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
@@ -82,7 +82,7 @@ TSConfig         4 hrs 3 mins    ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 </p>
 
 <h1 align="center">
-  <img alt="Contributions" title="Contributions" src="https://readme-typing-svg.herokuapp.com/?color=F77171FF&lines=📝+GitHub+Contributions&center=true&width=380&height=45">
+  <img alt="Contributions" title="Contributions" src="https://readme-typing-svg.herokuapp.com/?font=Caveat&weight=500&size=30&pause=1000&center=true&vCenter=true&color=F77171FF&lines=📝+GitHub+Contributions">
 </h1>
 <h3 align="center">Notable Issues and Pull Requests</h3>
 <div align="center">
@@ -107,7 +107,7 @@ TSConfig         4 hrs 3 mins    ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
   </a>
 </p>
 <h1 align="center">
-  <img alt="Contact me" title="Contact" src="https://readme-typing-svg.herokuapp.com/?color=%23F7B049&lines=🤙+Contact+me&center=true&width=380&height=45">
+  <img alt="Contact me" title="Contact" src="https://readme-typing-svg.herokuapp.com/?font=Caveat&weight=500&size=30&pause=1000&center=true&vCenter=true&color=%23F7B049&lines=🤙+Contact+me">
 </h1>
 <p align="center">
 <a href="https://alvinjoy.vercel.app" target="_blank"><img alt="Portfolio" title="Portfolio" height="32" width="32" src="./assets/icons/website.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
