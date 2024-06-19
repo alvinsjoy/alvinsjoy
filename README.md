@@ -110,7 +110,7 @@ TSConfig         4 hrs 3 mins    ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
   <img alt="Contact me" title="Contact" src="https://readme-typing-svg.herokuapp.com/?font=Caveat&weight=500&size=30&pause=1000&center=true&vCenter=true&color=%23F7B049&lines=🤙+Contact+me">
 </h1>
 <p align="center">
-<a href="https://alvinjoy.vercel.app" target="_blank"><img alt="Portfolio" title="Portfolio" height="32" width="32" src="./assets/icons/website.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://alvinjoy.vercel.app" target="_blank"><img alt="Portfolio" title="Portfolio" height="32" width="32" src="./assets/icons/website.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/_alvinjoy_" target="_blank"><img alt="Twitter" title="Twitter" height="32" width="32" src="./assets/icons/twitter.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alvinsjoy" target="_blank"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="./assets/icons/linkedin.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/_alvinjoy_" target="_blank"><img alt="Instagram" title="Instagram" height="32" width="32" src="./assets/icons/instagram.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
