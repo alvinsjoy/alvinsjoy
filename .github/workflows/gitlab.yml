@@ -4,30 +4,18 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 08:30 UTC
-    - cron: '30 8 * * *'
+    - cron: "30 8 * * *"
 
 jobs:
   to_gitlab:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
-      with: 
-        fetch-depth: 0
-    - name: Mirror to GitLab
-      uses: pixta-dev/repository-mirroring-action@674e65a7d483ca28dafaacba0d07351bdcc8bd75 # v1.1.1
-      with:
-        target_repo_url: "git@gitlab.com:alvinjoy/alvinjoy.git"
-        ssh_private_key: ${{ secrets.SSH_KEY }}
-  to_codeberg:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
         with:
           fetch-depth: 0
-      - name: Mirror to Codeberg
+      - name: Mirror to GitLab
         uses: pixta-dev/repository-mirroring-action@674e65a7d483ca28dafaacba0d07351bdcc8bd75 # v1.1.1
         with:
-          target_repo_url: "git@codeberg.org:alvinjoy/.profile.git"
+          target_repo_url: "git@gitlab.com:alvinjoy/alvinjoy.git"
           ssh_private_key: ${{ secrets.SSH_KEY }}
