@@ -29,11 +29,11 @@
 <h3 align="left"><img align="center" src="./assets/icons/github.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#505](https://github.com/fossunited/fossunited/issues/505) in [fossunited/fossunited](https://github.com/fossunited/fossunited)
-2. 🗣 Commented on [#4050](https://github.com/highlightjs/highlight.js/issues/4050#issuecomment-2256003104) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
-3. 🗣 Commented on [#1](https://github.com/kalviumcommunity/compilerd/issues/1#issuecomment-2253751586) in [kalviumcommunity/compilerd](https://github.com/kalviumcommunity/compilerd)
-4. 🗣 Commented on [#4050](https://github.com/highlightjs/highlight.js/issues/4050#issuecomment-2250842781) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
-5. 🗣 Commented on [#94](https://github.com/hsuanyi-chou/shadcn-ui-expansions/pull/94#issuecomment-2155301094) in [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions)
+1. 🗣 Commented on [#505](https://github.com/fossunited/fossunited/issues/505#issuecomment-2259704461) in [fossunited/fossunited](https://github.com/fossunited/fossunited)
+2. ❗ Opened issue [#505](https://github.com/fossunited/fossunited/issues/505) in [fossunited/fossunited](https://github.com/fossunited/fossunited)
+3. 🗣 Commented on [#4050](https://github.com/highlightjs/highlight.js/issues/4050#issuecomment-2256003104) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
+4. 🗣 Commented on [#1](https://github.com/kalviumcommunity/compilerd/issues/1#issuecomment-2253751586) in [kalviumcommunity/compilerd](https://github.com/kalviumcommunity/compilerd)
+5. 🗣 Commented on [#4050](https://github.com/highlightjs/highlight.js/issues/4050#issuecomment-2250842781) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
 <!--END_SECTION:activity-->
 <br>
 <p align="center">
