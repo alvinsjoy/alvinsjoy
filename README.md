@@ -29,11 +29,11 @@
 <h3 align="left"><img align="center" src="./assets/icons/github.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4087](https://github.com/highlightjs/highlight.js/pull/4087#issuecomment-2267560704) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
-2. 🗣 Commented on [#4087](https://github.com/highlightjs/highlight.js/pull/4087#issuecomment-2265638976) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
-3. 💪 Opened PR [#4087](https://github.com/highlightjs/highlight.js/pull/4087) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
-4. 🗣 Commented on [#505](https://github.com/fossunited/fossunited/issues/505#issuecomment-2259704461) in [fossunited/fossunited](https://github.com/fossunited/fossunited)
-5. ❗ Opened issue [#505](https://github.com/fossunited/fossunited/issues/505) in [fossunited/fossunited](https://github.com/fossunited/fossunited)
+1. 🗣 Commented on [#505](https://github.com/fossunited/fossunited/issues/505#issuecomment-2271347390) in [fossunited/fossunited](https://github.com/fossunited/fossunited)
+2. 🔒 Closed issue [#505](https://github.com/fossunited/fossunited/issues/505) in [fossunited/fossunited](https://github.com/fossunited/fossunited)
+3. 🗣 Commented on [#4087](https://github.com/highlightjs/highlight.js/pull/4087#issuecomment-2267560704) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
+4. 🗣 Commented on [#4087](https://github.com/highlightjs/highlight.js/pull/4087#issuecomment-2265638976) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
+5. 💪 Opened PR [#4087](https://github.com/highlightjs/highlight.js/pull/4087) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
 <!--END_SECTION:activity-->
 <br>
 <p align="center">
