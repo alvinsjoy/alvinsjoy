@@ -98,6 +98,7 @@ Other            6 hrs 19 mins   ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 | [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) | <img align="center" src="./assets/icons/issue.svg" alt="issue" height="20" width="20"/> [[FEATURE REQUEST] Add support for `prefers-color-scheme`](https://github.com/tandpfun/skill-icons/issues/986) |
 | [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [Add issue templates](https://github.com/hsuanyi-chou/shadcn-ui-expansions/pull/94)
 | [fossunited/fossunited](https://github.com/fossunited/fossunited) | <img align="center" src="./assets/icons/issue.svg" alt="issue" height="20" width="20"/> [[BUG] Unable to update user profile due to incorrect username availability error](https://github.com/fossunited/fossunited/issues/505)
+| [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [enh(csharp) add Contextual keywords `file`, `args`, `dynamic`, `record`, `required` and `scoped`](https://github.com/highlightjs/highlight.js/pull/4087)
 </div>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
