@@ -29,11 +29,11 @@
 <h3 align="left"><img align="center" src="./assets/icons/github.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1425](https://github.com/clerk/clerk-docs/pull/1425) in [clerk/clerk-docs](https://github.com/clerk/clerk-docs)
-2. 🗣 Commented on [#505](https://github.com/fossunited/fossunited/issues/505#issuecomment-2271347390) in [fossunited/fossunited](https://github.com/fossunited/fossunited)
-3. 🔒 Closed issue [#505](https://github.com/fossunited/fossunited/issues/505) in [fossunited/fossunited](https://github.com/fossunited/fossunited)
-4. 🗣 Commented on [#4087](https://github.com/highlightjs/highlight.js/pull/4087#issuecomment-2267560704) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
-5. 🗣 Commented on [#4087](https://github.com/highlightjs/highlight.js/pull/4087#issuecomment-2265638976) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
+1. 💪 Opened PR [#4](https://github.com/jamaljm/snapcv/pull/4) in [jamaljm/snapcv](https://github.com/jamaljm/snapcv)
+2. 💪 Opened PR [#1425](https://github.com/clerk/clerk-docs/pull/1425) in [clerk/clerk-docs](https://github.com/clerk/clerk-docs)
+3. 🗣 Commented on [#505](https://github.com/fossunited/fossunited/issues/505#issuecomment-2271347390) in [fossunited/fossunited](https://github.com/fossunited/fossunited)
+4. 🔒 Closed issue [#505](https://github.com/fossunited/fossunited/issues/505) in [fossunited/fossunited](https://github.com/fossunited/fossunited)
+5. 🗣 Commented on [#4087](https://github.com/highlightjs/highlight.js/pull/4087#issuecomment-2267560704) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
 <!--END_SECTION:activity-->
 <br>
 <p align="center">
