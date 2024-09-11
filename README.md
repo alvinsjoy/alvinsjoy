@@ -77,7 +77,7 @@ Other            7 hrs 41 mins   ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁�
 </h3>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
-      <img alt="Alvin's skills" src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,nextjs,dart,flutter,git,githubactions,md,mysql&perline=8&theme=auto">
+      <img alt="Alvin's skills" src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,nextjs,tailwindcss,dart,flutter,git,githubactions,md,mysql,mongodb,postgresql,supabase&perline=10&theme=auto">
   </a>
 </p>
 
