@@ -29,11 +29,11 @@
 <h3 align="left"><img align="center" src="./assets/icons/github.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/alvinsjoy/Hive/pull/1) in [alvinsjoy/Hive](https://github.com/alvinsjoy/Hive)
-2. 💪 Opened PR [#4](https://github.com/jamaljm/snapcv/pull/4) in [jamaljm/snapcv](https://github.com/jamaljm/snapcv)
-3. 💪 Opened PR [#1425](https://github.com/clerk/clerk-docs/pull/1425) in [clerk/clerk-docs](https://github.com/clerk/clerk-docs)
-4. 🗣 Commented on [#505](https://github.com/fossunited/fossunited/issues/505#issuecomment-2271347390) in [fossunited/fossunited](https://github.com/fossunited/fossunited)
-5. 🔒 Closed issue [#505](https://github.com/fossunited/fossunited/issues/505) in [fossunited/fossunited](https://github.com/fossunited/fossunited)
+1. 🎉 Merged PR [#1](https://github.com/alvinsjoy/Chat/pull/1) in [alvinsjoy/Chat](https://github.com/alvinsjoy/Chat)
+2. 🎉 Merged PR [#2](https://github.com/alvinsjoy/Hive/pull/2) in [alvinsjoy/Hive](https://github.com/alvinsjoy/Hive)
+3. 🎉 Merged PR [#1](https://github.com/alvinsjoy/Hive/pull/1) in [alvinsjoy/Hive](https://github.com/alvinsjoy/Hive)
+4. 💪 Opened PR [#4](https://github.com/jamaljm/snapcv/pull/4) in [jamaljm/snapcv](https://github.com/jamaljm/snapcv)
+5. 💪 Opened PR [#1425](https://github.com/clerk/clerk-docs/pull/1425) in [clerk/clerk-docs](https://github.com/clerk/clerk-docs)
 <!--END_SECTION:activity-->
 <br>
 <p align="center">
