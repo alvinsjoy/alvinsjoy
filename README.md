@@ -29,11 +29,11 @@
 <h3 align="left"><img align="center" src="./assets/icons/github.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16560](https://github.com/is-a-dev/register/pull/16560) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 💪 Opened PR [#16558](https://github.com/is-a-dev/register/pull/16558) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 💪 Opened PR [#16557](https://github.com/is-a-dev/register/pull/16557) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 🗣 Commented on [#16555](https://github.com/is-a-dev/register/pull/16555#issuecomment-2408911951) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 💪 Opened PR [#16555](https://github.com/is-a-dev/register/pull/16555) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🗣 Commented on [#16596](https://github.com/is-a-dev/register/pull/16596#issuecomment-2414398020) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 💪 Opened PR [#16596](https://github.com/is-a-dev/register/pull/16596) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 💪 Opened PR [#16560](https://github.com/is-a-dev/register/pull/16560) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 💪 Opened PR [#16558](https://github.com/is-a-dev/register/pull/16558) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 💪 Opened PR [#16557](https://github.com/is-a-dev/register/pull/16557) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 <br>
 <p align="center">
