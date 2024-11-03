@@ -29,11 +29,11 @@
 <h3 align="left"><img align="center" src="./assets/icons/github.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/wdhdev/free-for-life/issues/98#issuecomment-2452102613) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
-2. ❗ Opened issue [#98](https://github.com/wdhdev/free-for-life/issues/98) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
-3. 💪 Opened PR [#16923](https://github.com/is-a-dev/register/pull/16923) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 🗣 Commented on [#16787](https://github.com/is-a-dev/register/pull/16787#issuecomment-2435267699) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 💪 Opened PR [#16787](https://github.com/is-a-dev/register/pull/16787) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🗣 Commented on [#98](https://github.com/wdhdev/free-for-life/issues/98#issuecomment-2452986923) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
+2. 🗣 Commented on [#98](https://github.com/wdhdev/free-for-life/issues/98#issuecomment-2452869138) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
+3. 💪 Opened PR [#99](https://github.com/wdhdev/free-for-life/pull/99) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
+4. 🗣 Commented on [#98](https://github.com/wdhdev/free-for-life/issues/98#issuecomment-2452102613) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
+5. ❗ Opened issue [#98](https://github.com/wdhdev/free-for-life/issues/98) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
 <!--END_SECTION:activity-->
 <br>
 <p align="center">
