@@ -21,6 +21,6 @@ jobs:
           SHOW_MASKED_TIME: true
           COMMIT_MESSAGE: "🧑‍💻 Update Dev metrics"
           CODE_LANG: py
-          BLOCKS: 🟥🟨🟦🟩⬜
+          BLOCKS: ⬜🟩🟦🟨🟥
           SHOW_TOTAL: true
           LANG_COUNT: 10
