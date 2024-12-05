@@ -29,11 +29,11 @@
 <h3 align="left"><img align="center" src="./assets/icons/github.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#295](https://github.com/LelouchFR/skill-icons/issues/295#issuecomment-2507277609) in [LelouchFR/skill-icons](https://github.com/LelouchFR/skill-icons)
-2. 🔒 Closed issue [#295](https://github.com/LelouchFR/skill-icons/issues/295) in [LelouchFR/skill-icons](https://github.com/LelouchFR/skill-icons)
-3. ❗ Opened issue [#295](https://github.com/LelouchFR/skill-icons/issues/295) in [LelouchFR/skill-icons](https://github.com/LelouchFR/skill-icons)
-4. 💪 Opened PR [#17406](https://github.com/is-a-dev/register/pull/17406) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 💪 Opened PR [#17210](https://github.com/is-a-dev/register/pull/17210) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🎉 Merged PR [#3](https://github.com/alvinsjoy/Hive/pull/3) in [alvinsjoy/Hive](https://github.com/alvinsjoy/Hive)
+2. 🗣 Commented on [#295](https://github.com/LelouchFR/skill-icons/issues/295#issuecomment-2507277609) in [LelouchFR/skill-icons](https://github.com/LelouchFR/skill-icons)
+3. 🔒 Closed issue [#295](https://github.com/LelouchFR/skill-icons/issues/295) in [LelouchFR/skill-icons](https://github.com/LelouchFR/skill-icons)
+4. ❗ Opened issue [#295](https://github.com/LelouchFR/skill-icons/issues/295) in [LelouchFR/skill-icons](https://github.com/LelouchFR/skill-icons)
+5. 💪 Opened PR [#17406](https://github.com/is-a-dev/register/pull/17406) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 <br>
 <p align="center">
