@@ -29,11 +29,11 @@
 <h3 align="left"><img align="center" src="./assets/icons/github.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6949](https://github.com/bluesky-social/social-app/issues/6949#issuecomment-2520112239) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
-2. ❗ Opened issue [#6949](https://github.com/bluesky-social/social-app/issues/6949) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
-3. 🎉 Merged PR [#3](https://github.com/alvinsjoy/Hive/pull/3) in [alvinsjoy/Hive](https://github.com/alvinsjoy/Hive)
-4. 🗣 Commented on [#295](https://github.com/LelouchFR/skill-icons/issues/295#issuecomment-2507277609) in [LelouchFR/skill-icons](https://github.com/LelouchFR/skill-icons)
-5. 🔒 Closed issue [#295](https://github.com/LelouchFR/skill-icons/issues/295) in [LelouchFR/skill-icons](https://github.com/LelouchFR/skill-icons)
+1. 💪 Opened PR [#17594](https://github.com/is-a-dev/register/pull/17594) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🗣 Commented on [#6949](https://github.com/bluesky-social/social-app/issues/6949#issuecomment-2520112239) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
+3. ❗ Opened issue [#6949](https://github.com/bluesky-social/social-app/issues/6949) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
+4. 🎉 Merged PR [#3](https://github.com/alvinsjoy/Hive/pull/3) in [alvinsjoy/Hive](https://github.com/alvinsjoy/Hive)
+5. 🗣 Commented on [#295](https://github.com/LelouchFR/skill-icons/issues/295#issuecomment-2507277609) in [LelouchFR/skill-icons](https://github.com/LelouchFR/skill-icons)
 <!--END_SECTION:activity-->
 <br>
 <p align="center">
