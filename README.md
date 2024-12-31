@@ -29,11 +29,11 @@
 <h3 align="left"><img align="center" src="./assets/icons/github.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/alvinsjoy/Hive/pull/4) in [alvinsjoy/Hive](https://github.com/alvinsjoy/Hive)
-2. ❗ Opened issue [#31221](https://github.com/supabase/supabase/issues/31221) in [supabase/supabase](https://github.com/supabase/supabase)
-3. 💪 Opened PR [#17594](https://github.com/is-a-dev/register/pull/17594) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 🗣 Commented on [#6949](https://github.com/bluesky-social/social-app/issues/6949#issuecomment-2520112239) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
-5. ❗ Opened issue [#6949](https://github.com/bluesky-social/social-app/issues/6949) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
+1. 💪 Opened PR [#17919](https://github.com/is-a-dev/register/pull/17919) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🎉 Merged PR [#4](https://github.com/alvinsjoy/Hive/pull/4) in [alvinsjoy/Hive](https://github.com/alvinsjoy/Hive)
+3. ❗ Opened issue [#31221](https://github.com/supabase/supabase/issues/31221) in [supabase/supabase](https://github.com/supabase/supabase)
+4. 💪 Opened PR [#17594](https://github.com/is-a-dev/register/pull/17594) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🗣 Commented on [#6949](https://github.com/bluesky-social/social-app/issues/6949#issuecomment-2520112239) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
 <!--END_SECTION:activity-->
 <br>
 <p align="center">
