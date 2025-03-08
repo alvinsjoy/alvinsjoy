@@ -99,6 +99,10 @@ SQL              15 hrs 49 mins  🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 | [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [Add issue templates](https://github.com/hsuanyi-chou/shadcn-ui-expansions/pull/94)
 | [fossunited/fossunited](https://github.com/fossunited/fossunited) | <img align="center" src="./assets/icons/issue.svg" alt="issue" height="20" width="20"/> [[BUG] Unable to update user profile due to incorrect username availability error](https://github.com/fossunited/fossunited/issues/505)
 | [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [enh(csharp) add Contextual keywords `file`, `args`, `dynamic`, `record`, `required` and `scoped`](https://github.com/highlightjs/highlight.js/pull/4087)
+| [clerk/clerk-docs](https://github.com/clerk/clerk-docs) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [Remove duplicate text](https://github.com/clerk/clerk-docs/pull/1425)
+| [jamaljm/snapcv](https://github.com/jamaljm/snapcv) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [Fix toast links](https://github.com/jamaljm/snapcv/pull/4)
+| [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [Add Formbricks and Refactor Descriptions for Formpost, Form-data and Formingo](https://github.com/wdhdev/free-for-life/pull/99)
+| [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [fix: use resolvedTheme for accurate theme management](https://github.com/zaidmukaddam/scira/pull/105)
 </div>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
