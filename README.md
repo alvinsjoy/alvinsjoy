@@ -77,7 +77,7 @@ SQL              15 hrs 49 mins  🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 </h3>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
-      <img alt="Alvin's skills" src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,html,css,javascript,typescript,nodejs,react,nextjs,tailwindcss,dart,flutter,git,githubactions,md,mysql,mongodb,postgresql,supabase&perline=10&theme=auto">
+      <img alt="Alvin's skills" src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,numpy,fastapi,pytorch,tensorflow,html,css,javascript,typescript,nodejs,react,nextjs,authjs,zustand,tailwindcss,dart,flutter,git,githubactions,md,postman,mysql,mongodb,postgresql,supabase,appwrite&perline=14&theme=auto">
   </a>
 </p>
 
