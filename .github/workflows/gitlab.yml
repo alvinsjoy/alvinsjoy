@@ -7,7 +7,7 @@ on:
     - cron: "30 8 * * *"
 
 jobs:
-  to_gitlab:
+  mirror:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -20,14 +20,12 @@ jobs:
           INPUT_SSH_PRIVATE_KEY: ${{ secrets.SSH_KEY }}
         run: |
           set -eu
-          
           mkdir -p ~/.ssh
           echo "$INPUT_SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
-          
-          ssh-keyscan gitlab.com >> ~/.ssh/known_hosts
-          export GIT_SSH_COMMAND="ssh -v -i ~/.ssh/id_rsa -l git"
-          
+          export GIT_SSH_COMMAND="ssh -v -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -l git"
+
           git remote add mirror "git@gitlab.com:alvinjoy/alvinjoy.git"
-          git push --mirror mirror
+          git push --force --prune mirror --all
+          git push --force mirror --tags
           git remote remove mirror
