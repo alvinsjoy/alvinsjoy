@@ -29,8 +29,8 @@
 <h3 align="left"><img align="center" src="./assets/icons/github.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21435](https://github.com/is-a-dev/register/pull/21435) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 💪 Opened PR [#105](https://github.com/zaidmukaddam/scira/pull/105) in [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)
+1. ❗ Opened issue [#7798](https://github.com/zen-browser/desktop/issues/7798) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+2. 💪 Opened PR [#21435](https://github.com/is-a-dev/register/pull/21435) in [is-a-dev/register](https://github.com/is-a-dev/register)
 3. 🗣 Commented on [#20596](https://github.com/is-a-dev/register/pull/20596#issuecomment-2688402455) in [is-a-dev/register](https://github.com/is-a-dev/register)
 4. 💪 Opened PR [#20596](https://github.com/is-a-dev/register/pull/20596) in [is-a-dev/register](https://github.com/is-a-dev/register)
 5. 🎉 Merged PR [#4](https://github.com/alvinsjoy/Hive/pull/4) in [alvinsjoy/Hive](https://github.com/alvinsjoy/Hive)
