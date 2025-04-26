@@ -4,11 +4,7 @@
 <h1 align="center">
   <img alt="Stats" title="Stats" src="https://readme-typing-svg.herokuapp.com/?font=Caveat&weight=500&size=30&pause=1000&center=true&vCenter=true&color=%8A51CD&width=380&height=45&lines=📊+Profile+Stats">
 </h1>
-<p align="center">
-  <a href="https://github.com/alvinsjoy">
-    <img alt="Profile Views" title="Profile Views" src="https://visitcount.itsvg.in/api?id=alvinsjoy&label=Profile%20Views&icon=2&pretty=true" />
-  </a>
-</p>
+
 <p align="center">
   <a href="https://discord.com/users/825382504353234954">
     <picture>
@@ -18,9 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  Most of my repositories are private. The stats below show info about public repos.
-</p>
 <p>
   <a href="https://github.com/alvinsjoy">
     <img align="right" alt="Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinsjoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" alt="alvinsjoy's github stats" height="200" />
@@ -103,6 +96,7 @@ CSS              18 hrs 11 mins  🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 | [jamaljm/snapcv](https://github.com/jamaljm/snapcv) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [Fix toast links](https://github.com/jamaljm/snapcv/pull/4)
 | [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [Add Formbricks and Refactor Descriptions for Formpost, Form-data and Formingo](https://github.com/wdhdev/free-for-life/pull/99)
 | [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [fix: use resolvedTheme for accurate theme management](https://github.com/zaidmukaddam/scira/pull/105)
+| [zen-browser/desktop](https://github.com/zen-browser/desktop) | <img align="center" src="./assets/icons/issue.svg" alt="pr" height="20" width="20"/> [Muting a tab from the media controller does not change the state of the "Mute Tab" button to "Unmute Tab"](https://github.com/zen-browser/desktop/issues/7798)
 </div>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
