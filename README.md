@@ -98,6 +98,7 @@ Other            18 hrs 20 mins  🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 | [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [fix: use resolvedTheme for accurate theme management](https://github.com/zaidmukaddam/scira/pull/105)
 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | <img align="center" src="./assets/icons/issue.svg" alt="pr" height="20" width="20"/> [Muting a tab from the media controller does not change the state of the "Mute Tab" button to "Unmute Tab"](https://github.com/zen-browser/desktop/issues/7798)
 | [ente-io/ente](https://github.com/ente-io/ente) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [[auth] remove hex for LinkedIn icon](https://github.com/ente-io/ente/pull/5727)
+| [zen-browser/desktop](https://github.com/zen-browser/desktop) | <img align="center" src="./assets/icons/pr.png" alt="pr" height="20" width="20"/> [fix: use list-style rather than menu for appMenu items](https://github.com/zen-browser/desktop/pull/7989)
 </div>
 <p align="center">
   <a href="https://github.com/alvinsjoy">
