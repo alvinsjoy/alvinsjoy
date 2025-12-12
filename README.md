@@ -22,9 +22,9 @@
 <h3 align="left"><img align="center" src="./assets/icons/github.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#550](https://github.com/alvinsjoy/PortfolioWebsite/pull/550) in [alvinsjoy/PortfolioWebsite](https://github.com/alvinsjoy/PortfolioWebsite)
-2. 🎉 Merged PR [#450](https://github.com/alvinsjoy/PortfolioWebsite/pull/450) in [alvinsjoy/PortfolioWebsite](https://github.com/alvinsjoy/PortfolioWebsite)
-3. 💪 Opened PR [#7989](https://github.com/zen-browser/desktop/pull/7989) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+1.  Labeled issue [#7068](https://github.com/dart-lang/site-www/issues/7068) in [dart-lang/site-www](https://github.com/dart-lang/site-www)
+2.  Labeled issue [#7068](https://github.com/dart-lang/site-www/issues/7068) in [dart-lang/site-www](https://github.com/dart-lang/site-www)
+3. ❗ Opened issue [#7068](https://github.com/dart-lang/site-www/issues/7068) in [dart-lang/site-www](https://github.com/dart-lang/site-www)
 4. 🗣 Commented on [#5722](https://github.com/ente-io/ente/issues/5722#issuecomment-2833136573) in [ente-io/ente](https://github.com/ente-io/ente)
 5. 💪 Opened PR [#5727](https://github.com/ente-io/ente/pull/5727) in [ente-io/ente](https://github.com/ente-io/ente)
 <!--END_SECTION:activity-->
