@@ -47,7 +47,7 @@
 <!--START_SECTION:waka-->
 
 ```py
-From: 25 May 2023 - To: 24 December 2025
+From: 25 May 2023 - To: 25 December 2025
 
 Total Time: 1,139 hrs 42 mins
 
