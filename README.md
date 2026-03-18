@@ -47,14 +47,14 @@
 <!--START_SECTION:waka-->
 
 ```py
-From: 25 May 2023 - To: 15 March 2026
+From: 25 May 2023 - To: 16 March 2026
 
-Total Time: 1,560 hrs 1 min
+Total Time: 1,561 hrs 26 mins
 
-TypeScript       410 hrs 16 mins 🟥🟥🟥🟥🟥🟥🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.30 %
-Dart             393 hrs 18 mins 🟥🟥🟥🟥🟥🟥🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.21 %
-C                277 hrs 5 mins  🟥🟥🟥🟥🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.76 %
-JSON             90 hrs 25 mins  🟥🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.80 %
+TypeScript       410 hrs 16 mins 🟥🟥🟥🟥🟥🟥🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.28 %
+Dart             393 hrs 48 mins 🟥🟥🟥🟥🟥🟥🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.22 %
+C                277 hrs 5 mins  🟥🟥🟥🟥🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.75 %
+JSON             91 hrs 20 mins  🟥🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.85 %
 Python           77 hrs 7 mins   🟥🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.94 %
 JavaScript       70 hrs 51 mins  🟥🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.54 %
 Java             66 hrs 1 min    🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.23 %
