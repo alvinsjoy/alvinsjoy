@@ -22,11 +22,11 @@
 <h3 align="left"><img align="center" src="./assets/icons/github.png" alt="skills" height="24" width="24" />&nbsp;&nbsp;Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/PointerRAG/Project/pull/6) in [PointerRAG/Project](https://github.com/PointerRAG/Project)
-2. 💪 Opened PR [#6](https://github.com/PointerRAG/Project/pull/6) in [PointerRAG/Project](https://github.com/PointerRAG/Project)
-3. 🎉 Merged PR [#5](https://github.com/PointerRAG/Project/pull/5) in [PointerRAG/Project](https://github.com/PointerRAG/Project)
-4. 💪 Opened PR [#5](https://github.com/PointerRAG/Project/pull/5) in [PointerRAG/Project](https://github.com/PointerRAG/Project)
-5. 🎉 Merged PR [#3](https://github.com/PointerRAG/Project/pull/3) in [PointerRAG/Project](https://github.com/PointerRAG/Project)
+1. 🎉 Merged PR [#7](https://github.com/PointerRAG/Project/pull/7) in [PointerRAG/Project](https://github.com/PointerRAG/Project)
+2. 🗣 Commented on [#7](https://github.com/PointerRAG/Project/pull/7#issuecomment-4286400025) in [PointerRAG/Project](https://github.com/PointerRAG/Project)
+3. 💪 Opened PR [#7](https://github.com/PointerRAG/Project/pull/7) in [PointerRAG/Project](https://github.com/PointerRAG/Project)
+4. 🎉 Merged PR [#6](https://github.com/PointerRAG/Project/pull/6) in [PointerRAG/Project](https://github.com/PointerRAG/Project)
+5. 💪 Opened PR [#6](https://github.com/PointerRAG/Project/pull/6) in [PointerRAG/Project](https://github.com/PointerRAG/Project)
 <!--END_SECTION:activity-->
 <br>
 <p align="center">
